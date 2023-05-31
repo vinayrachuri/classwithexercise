@@ -1,0 +1,15 @@
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\bin\Debug\net6.0\Exercisewithclass.exe
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\bin\Debug\net6.0\Exercisewithclass.deps.json
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\bin\Debug\net6.0\Exercisewithclass.runtimeconfig.json
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\bin\Debug\net6.0\Exercisewithclass.dll
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\bin\Debug\net6.0\Exercisewithclass.pdb
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.csproj.AssemblyReference.cache
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.AssemblyInfoInputs.cache
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.AssemblyInfo.cs
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.csproj.CoreCompileInputs.cache
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.dll
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\refint\Exercisewithclass.dll
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.pdb
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\Exercisewithclass.genruntimeconfig.cache
+C:\Users\vinay\OneDrive\Desktop\C Sharp\Exercisewithclass\Exercisewithclass\obj\Debug\net6.0\ref\Exercisewithclass.dll
